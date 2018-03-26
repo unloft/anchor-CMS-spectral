@@ -1,5 +1,5 @@
 Theme name:    AnchorCMS_Spectral
 Description:   Spectral by HTML5 UP	html5up.net | @ajlkn	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license) Spectral Mod Theme for Anchor CMS by Unloft	https://github.com/unloft
 Author name:   @ajlkn | unloft
-Author site:   html5up.net | https://github.com/unloft
+Author site:   unloft
 License:       CCA 3.0 
