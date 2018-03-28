@@ -43,16 +43,25 @@ This theme needs the following custom field
 # HOW TO INSERT TEXT AND IMAGE IN MY NEW SPECTRAL TEMPLATE
 
 *Now is all too easy*
+
 Go in your admin AnchorCMS page 
+
 If doesn’e exist create a page Called *HOME* and set PageType to *HOME*.
+
 All custom field will appear as if by **magic!**
+
 Please refer to these images to understand what to insert in the various custom fields and what will enter / change
 
 *Page.jpg*    **available soon...**
+
 *Home-FirstBlock.jpg*  **available soon...**
+
 Home-SecondBlock.jpg*  **available soon...**
+
 Home-SpotlightBlock.jpg* **available soon...**
+
 Home-FeaturesBlock.jpg*  **available soon...**
+
 Home-CtaBlock.jpg*   **available soon...**
 
 
