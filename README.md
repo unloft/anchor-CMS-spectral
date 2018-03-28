@@ -36,7 +36,10 @@ This theme needs the following custom field
 2.	Copy all **INNER STATEMENT COLUMN**
 3.	Go to your database page ( *yoursite/phpmyadmin or other*) 
 4.	Check your anchor database and search in it “*anchor_extend*”
-5.	Run in this table all **SQL INNER STATMANT**
+5.	Run in this table all **SQL INNER STATEMENT**
+
+SQL INNER STATEMENT are avaible in this file [EXCEL FILE HERE](https://github.com/unloft/anchor-CMS-spectral/blob/master/CUSTOM%20FIELDS%20(1).xlsx)
+
 
 **ALL FINISHED !!  The custom fields are all set!
 
