@@ -71,7 +71,8 @@ Home-CtaBlock.jpg*   **available soon...**
 
 If you like this Star IT !
 If you want you can support me :https://www.paypal.me/unloft
-**THANK A LOT
+
+**THANK A LOT**
 
 
 
