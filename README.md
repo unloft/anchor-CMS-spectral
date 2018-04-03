@@ -67,6 +67,12 @@ Home-FeaturesBlock.jpg*  **available soon...**
 
 Home-CtaBlock.jpg*   **available soon...**
 
+# THANKS A LOT 
+
+If you like this Star IT !
+If you want you can support me :https://www.paypal.me/unloft
+**THANK A LOT
+
 
 
 
